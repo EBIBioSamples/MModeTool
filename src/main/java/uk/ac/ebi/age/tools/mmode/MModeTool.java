@@ -113,6 +113,6 @@ public class MModeTool
 
  static void usage()
  {
-  System.err.println("Usage:\njava -jar MModeTool -u uname -p password -h host set|reset [timeout(sec)]");
+  System.err.println("Usage:\njava -jar MModeTool -u uname -p password -h host -t timeout set|reset ");
  }
 }
